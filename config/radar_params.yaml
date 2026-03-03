@@ -1,0 +1,10 @@
+carrier_freq_hz: 77.0e9
+bandwidth_hz: 4.0e9
+chirp_duration_s: 40.0e-6
+idle_time_s: 10.0e-6
+sample_rate_hz: 20.0e6
+num_adc_samples: 512
+num_chirps: 128
+num_rx_antennas: 8
+noise_figure_db: 5.0
+temperature_k: 290.0
